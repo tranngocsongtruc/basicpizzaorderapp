@@ -39,7 +39,7 @@ each extra topping is $1.25.
 
 Important Note about images:
 The images that are best compatible with Tkinter are GIF. One strategy is to design your full
-image in in any tool (I used Word) then take a snapshot of it and paste it into Paint. Save your
+image in in any tool then take a snapshot of it and paste it into Paint. Save your
 image as GIF.
 
 Remember your image file must be inside the same folder as your python file.
